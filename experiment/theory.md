@@ -3,6 +3,9 @@ An Operational Amplifier, or op-amp for short, is fundamentally a voltage amplif
 An Operational Amplifier is basically a three-terminal device which consists of two high impedance inputs. One of the inputs is called the Inverting Input, marked with a negative or “minus” sign, ( – ). The other input is called the Non-inverting Input, marked with a positive or “plus” sign ( + ).<br><br>
 A third terminal represents the operational amplifiers output port which can both sink and source either a voltage or a current. In a linear operational amplifier, the output signal is the amplification factor, known as the amplifiers gain ( A ) multiplied by the value of the input signal .<br>
 
+<center><img src="images/op-amp-in-schematics.png"width="25%" alt="Series RLC circuit" title="Inductive reactance agianst Frequency"> </center>
+ <center>Fig.1 Series RLC circuit</center><br/>
+
 <h3>Common Mode Gain</h3>
 Common-mode voltage gain refers to the amplification given to signals that appear on both inputs relative to the common (typically ground). … This means the output is unaffected by voltages that are common to both inputs. <br><br>
 voltage applied to both input is common, it is referred as common mode voltage Vcm. The common mode voltage Vcm can be dc, ac and a combination of ac and dc.<br><br>
