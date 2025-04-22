@@ -12,7 +12,7 @@
      
       "correctAnswer": "d",
       "difficulty": "beginner",
-      "explanation": "",
+      "explanation": "<p>An operational amplifier (op-amp) possesses several ideal characteristics that define its performance. It has a very high input impedance (differential or common-mode), ideally infinite, and a very low output impedance in open-loop configuration, ideally zero. The voltage gain of an op-amp is extremely high, ideally infinite, allowing it to amplify even minute input differences. It exhibits a very low common-mode voltage gain, ideally zero, meaning the output remains at zero when both inputs are at the same voltage—this is known as zero offset voltage. Additionally, the output of an ideal op-amp can change instantaneously, reflecting an infinite slew rate. The bias current in an op-amp is designed to support these ideal characteristics, resulting in high common-mode rejection ratio (CMRR), high differential gain, and high input impedance.</p>",
       "iframe": "<iframe src='https://www.chatbase.co/chatbot-iframe/LO7FmMfDC8Tsg2FAKacgm' width='100%' style='height: 500px;' frameborder='0'></iframe>"
     },
     {
