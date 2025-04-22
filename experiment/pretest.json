@@ -9,14 +9,11 @@
         "c": "Very Low Output Impedance",
         "d": "all are correct"
       },
-      "explanations": {
-        "a": "Explanation 2",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 1  <a href='https://testbook.com/question-answer/the-input-resistance-of-an-ideal-op-amp-is--5fdb0110727ba8e65616e090#:~:text=An%20op%2Damp%20has%20the,gain%2C%20and%20high%20input%20impedance'>here</a>"
-      },
+     
       "correctAnswer": "d",
-      "difficulty": "beginner"
+      "difficulty": "beginner",
+      "explanation": "",
+      "iframe": "<iframe src='https://www.chatbase.co/chatbot-iframe/LO7FmMfDC8Tsg2FAKacgm' width='100%' style='height: 500px;' frameborder='0'></iframe>"
     },
     {
       "question": "2. Initially Operational Amplifiers are with the help of  ____________.",
@@ -26,14 +23,11 @@
         "c": "Vacuum Tubes",
         "d": "a & c are correct"
       },
-      "explanations": {
-        "a": "Explanation 2",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 1  <a href='https://www.allaboutcircuits.com/textbook/semiconductors/chpt-8/operational-amplifier-models/#:~:text=While%20mention%20of%20operational%20amplifiers%20typically%20provokes,amplifier%20was%20manufactured%20by%20the%20George%20A.'>here</a>"
-      },
       "correctAnswer": "d",
-      "difficulty": "beginner"
+       "difficulty": "beginner",
+      "explanation": "Explanation 1",
+      "iframe": "<iframe src='https://www.chatbase.co/chatbot-iframe/LO7FmMfDC8Tsg2FAKacgm' width='100%' style='height: 500px;' frameborder='0'></iframe>"
+     
     },
     {
       "question": "3. Today OP AMP are made with the help of  ___________________.",
@@ -43,14 +37,11 @@
         "c": "Vacuum Tubes",
         "d": "a & c are correct"
       },
-      "explanations": {
-        "a": "Explanation 2",
-        "b": "Explanation 1  <a href='https://www.ti.com/lit/an/sloa011b/sloa011b.pdf?ts=1742971467514&ref_url=https%253A%252F%252Fwww.google.com%252F#:~:text=Later%20op%20amps%20were%20made,highly%20efficient%20and%20cost%20effective.&text=Before%20jumping%20into%20op%20amps,to%20review%20some%20amplifier%20fundamentals.'>here</a>",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
       "correctAnswer": "b",
-      "difficulty": "beginner"
+      "difficulty": "beginner",
+      "explanation": "Explanation 1",
+      "iframe": "<iframe src='https://www.chatbase.co/chatbot-iframe/LO7FmMfDC8Tsg2FAKacgm' width='100%' style='height: 500px;' frameborder='0'></iframe>"
+      
     },
     {
       "question": "4. What is the open loop gain of an ideal operational amplifier ?",
@@ -60,14 +51,11 @@
         "c": "Zero",
         "d": "all are correct"
       },
-      "explanations": {
-        "a": "Explanation 2",
-        "b": "Explanation 1 <a href='https://www.sciencedirect.com/topics/engineering/ideal-op-amp#:~:text=An%20ideal%20op%20amp%20has%20infinite%20gain%20for%20differential%20input,V%2C%20the%20dimensionless%20numeric%20gain.'>here</a>",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
       "correctAnswer": "b",
-      "difficulty": "beginner"
+       "difficulty": "beginner",
+      "explanation": "Explanation 1",
+      "iframe": "<iframe src='https://www.chatbase.co/chatbot-iframe/LO7FmMfDC8Tsg2FAKacgm' width='100%' style='height: 500px;' frameborder='0'></iframe>"
+     
     },
     {
       "question": "5. The CMRR of an ideal OP AMP is _____________",
@@ -77,14 +65,11 @@
         "c": "Zero",
         "d": "a & c are correct"
       },
-      "explanations": {
-        "a": "Explanation 2",
-        "b": "Explanation 1  <a href='https://testbook.com/question-answer/the-common-mode-rejection-ratio-cmrr-of-an-ideal--5f7b54eb3b96f198e2a01e3a'>here</a>",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
       "correctAnswer": "b",
-      "difficulty": "beginner"
+      "difficulty": "beginner",
+      "explanation": "Explanation 1",
+      "iframe": "<iframe src='https://www.chatbase.co/chatbot-iframe/LO7FmMfDC8Tsg2FAKacgm' width='100%' style='height: 500px;' frameborder='0'></iframe>"
+      
     }
   ]
 }
