@@ -1,5 +1,10 @@
 {
   "version": 2.0,
+  "customIframe": "<iframe src='https://www.chatbase.co/chatbot-iframe/LO7FmMfDC8Tsg2FAKacgm' width='100%' style='height: 500px;' frameborder='0'></iframe>",
+  "features": {
+    "useDetailsTag": true,
+    "useChatbotToggle": true
+  },
   "questions": [
     {
       "question": "1. Operational Amplifier consists of the following features  ______________.",
